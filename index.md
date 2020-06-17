@@ -181,8 +181,7 @@ special instructions.
   accessible to everybody. The workshop organizers have checked that:
 </p>
 <ul>
-  <li>The room is wheelchair / scooter accessible.</li>
-  <li>Accessible restrooms are available.</li>
+  <li>The video recordings will be accompanied by a text-based version of the content for following along.</li>
 </ul>
 <p>
   Materials will be provided in advance of the workshop and
