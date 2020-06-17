@@ -153,7 +153,7 @@ This block displays the date and links to Google Calendar.
 {% if page.humandate %}
 <p id="when">
   <strong>When:</strong>
-  {{page.humandate}}.
+  {{page.humandate}}.<p>Each day of the workshop, we will hold discussions from 9:00-10:00 a.m. and 3:00-4:00 p.m., and you can choose to attend one or the other. Watch the recorded lessons and work through the lesson modules before the discussion section that you choose to attend each day.</p> 
   {% include workshop_calendar.html %}
 </p>
 {% endif %}
